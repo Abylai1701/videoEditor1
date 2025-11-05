@@ -143,8 +143,6 @@ extension Apphud {
                 continuation.resume(returning: paywalls ?? [])
             }
         }
-
         return fallback
     }
 }
-

@@ -74,7 +74,7 @@ struct PaywallView: View {
                 )
             } else {
                 return Alert(
-                    title: Text("Purchase failed"),
+                    title: Text("Please try again later..."),
                     message: Text(alert.message),
                     dismissButton: .default(Text("OK")) {
                         viewModel.alert = nil

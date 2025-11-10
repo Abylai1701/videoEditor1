@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Transcripta</string>
+	<string>Descript AI</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -24,8 +24,8 @@
 	<string>The app needs access to save the video to a Photo.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>This app uses your photo library to export and store video files.</string>
-    <key>NSUserTrackingUsageDescription</key>
-    <string>We use your ID for advertising purposes.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>We use your ID for advertising purposes.</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UISupportedInterfaceOrientations</key>
